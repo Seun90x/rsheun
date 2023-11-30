@@ -1,0 +1,13 @@
+Package: rsheun
+Type: Package
+Title: Personal Swiss Army Knife
+Version: 0.1.0
+Author: Oluwaseun Akinsulire
+Maintainer: The package maintainer <akinsulireoluwaseun90@gmail.com>
+Description: This package includes random functions that automate some processes
+    to make my life easier, and two functions to remove the zeros in a specified
+    matrix by row and column
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
